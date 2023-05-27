@@ -26,7 +26,11 @@ This project demonstrates a hand gesture controlled presentation application usi
 2. Install the required libraries using pip:
 ```
 pip install opencv-python
+```
+```
 pip install cvzone
+```
+```
 pip install numpy
 ```
 3. Place your presentation images in the "Presentation" folder. Rename them in a sequential manner for proper slide navigation.
