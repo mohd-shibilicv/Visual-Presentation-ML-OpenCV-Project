@@ -23,14 +23,14 @@ This project demonstrates a hand gesture controlled presentation application usi
 
 1. Clone the repository or download the project files.
 2. Install the required libraries using pip:
-``
+```
 pip install opencv-python
 pip install cvzone
 pip install numpy
-``
+```
 3. Place your presentation images in the "Presentation" folder. Rename them in a sequential manner for proper slide navigation.
 4. Run the `main.py` script:
-``python main.py``
+```python main.py```
 5. Ensure that your webcam is working and properly detected by the script.
 6. Use the defined hand gestures to navigate through slides and draw annotations as described in the Features section.
 
