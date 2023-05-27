@@ -6,11 +6,12 @@ This project demonstrates a hand gesture controlled presentation application usi
 ## Features
 
 - Slide navigation using hand gestures:
-  - Show the next slide by extending the index finger.
-  - Show the previous slide by making a fist with the hand.
+  - Show the next slide by extending the Pinky finger.
+  - Show the previous slide by extending the thumb finger.
 - Drawing annotations on slides using the index finger:
-  - Start drawing annotations by closing the thumb and extending the index finger.
-  - Erase the last annotation by extending the thumb, index finger, and middle finger simultaneously.
+  - Display Drawer using by extending index and middle finger.
+  - Start drawing annotations by closing the middle finger and extending the index finger.
+  - Erase the last annotation by extending the index finger, middle finger and ring finger simultaneously.
 
 ## Requirements
 
